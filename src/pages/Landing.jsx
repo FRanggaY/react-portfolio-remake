@@ -3,7 +3,7 @@ import { NavigationBar } from '../components/NavigationBar'
 import '../assets/css/Custom.css'
 import Intro from '../components/Intro'
 import About from '../components/About'
-import Quality from '../components/Quality'
+import Skill from '../components/Skill'
 import Portfolio from '../components/Portfolio'
 import Footer from '../components/Footer'
 
@@ -17,7 +17,7 @@ function Landing() {
         <NavigationBar />
         <Intro />
         <About />
-        <Quality />
+        <Skill />
         <Portfolio />
         <Footer />
     </div>

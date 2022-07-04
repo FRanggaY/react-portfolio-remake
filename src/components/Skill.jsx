@@ -7,7 +7,7 @@ import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 
-function Quality() {
+function Skill() {
   const data = {
     skillData: [
       {
@@ -111,13 +111,13 @@ function Quality() {
   }
 
   return (
-    <div className="border-bottom pb-5 qualityCustom" id="quality">
+    <div className="border-bottom pb-5 skillCustom" id="skill">
       <Container className="pt-5">
         <Row>
           <Col md={4}>
             <AnimationOnScroll animateIn="animate__bounceIn" offset={80}>
             <div>
-              <h3 className="fw-bold pb-2">QUALITY</h3>
+              <h3 className="fw-bold pb-2">SKILL</h3>
               <div className="d-flex align-items-center flex-wrap gap-2">
               {data.skillData.map((item, i) => (
                 <OverlayTrigger
@@ -183,4 +183,4 @@ function Quality() {
   )
 }
 
-export default Quality
+export default Skill
