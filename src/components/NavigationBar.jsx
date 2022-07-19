@@ -57,7 +57,7 @@ export const NavigationBar = () => {
                                     <a class="nav-link py-2 px-0 px-lg-2" href="#about" >About</a>
                                 </li>
                                 <li class="nav-item col-6 col-lg-auto">
-                                    <a class="nav-link py-2 px-0 px-lg-2" href="#quality" >Quality</a>
+                                    <a class="nav-link py-2 px-0 px-lg-2" href="#skill" >Skill</a>
                                 </li>
                                 <li class="nav-item col-6 col-lg-auto">
                                     <a class="nav-link py-2 px-0 px-lg-2" href="#portfolio" >Portfolio</a>
