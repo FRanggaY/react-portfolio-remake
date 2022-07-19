@@ -36,7 +36,7 @@ export const NavigationBar = () => {
                         <Navbar.Brand className="customLogoBrand" href="/"><span>FRY</span></Navbar.Brand>
                         <Nav className="d-lg-inline-flex d-none">
                             <Nav.Link className="text-white" href="#about" >About</Nav.Link>
-                            <Nav.Link className="text-white" href="#quality" >Quality</Nav.Link>
+                            <Nav.Link className="text-white" href="#skill" >Skill</Nav.Link>
                             <Nav.Link className="text-white" href="#portfolio" >Portfolio</Nav.Link>
                         </Nav>
                         <Nav className="d-lg-none d-inline">

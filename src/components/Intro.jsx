@@ -9,7 +9,7 @@ function Intro() {
   const data = {
     profile: {
       name: 'Franciscus Rangga Yogianto',
-      role: ["Backend Developer", "Data Science"],
+      role: ["Backend Developer", "Data Engineer"],
     },
     skillData: [
       {

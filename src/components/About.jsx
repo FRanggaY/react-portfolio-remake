@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 function About() {
   const data = {
     about: {
-      desc: 'I am currently looking for opportunities to work in software development. I am dedicated to making myself, my experience, and my education useful for developing innovative and creative applications',
+      desc: 'Currently developing applications using Python and PHP.',
       statistic: [
         {
           id: 1,

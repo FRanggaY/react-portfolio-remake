@@ -33,8 +33,8 @@ function Footer() {
       },
       {
         id: 3,
-        title: "Quality",
-        URL: "#quality",
+        title: "Skill",
+        URL: "#skill",
       },
       {
         id: 4,

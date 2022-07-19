@@ -77,6 +77,14 @@ function Skill() {
     experienceData: [
       {
         id: 1,
+        title: "Data Engineer",
+        internship: false,
+        company: "StarCore Analytics",
+        date: "Jul 2022 - Present",
+        desc: '',
+      },
+      {
+        id: 2,
         title: "Fullstack Developer",
         internship: true,
         company: "PT Berdhaya Gemilang Mandiri",
@@ -88,7 +96,7 @@ function Skill() {
         </ul>,
       },
       {
-        id: 2,
+        id: 3,
         title: "Frontend Developer ",
         internship: true,
         company: "CV IDS (Kejar.id)",
